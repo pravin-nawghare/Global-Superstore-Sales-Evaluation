@@ -1,7 +1,7 @@
 
 # Project Title
 
-__Global Superstore Sales Dashboard__
+### Global Superstore Sales Dashboard
 
 Global Superstore Sales Dashboard
 
